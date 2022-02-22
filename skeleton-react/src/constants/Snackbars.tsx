@@ -1,0 +1,1 @@
+export const AutoHideDuration = 4000

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  line-height: 1.6;
+  font-size: 1.4rem !important;
+  letter-spacing: 0.01em;
+  color: #222222;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+.ql-editor {
+  min-height: 180px;
+}
